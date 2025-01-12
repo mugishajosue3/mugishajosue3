@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/check my portifolio for link" target="blank"><img src="https://img.shields.io/twitter/follow/check my portifolio for link?logo=twitter&style=for-the-badge" alt="check my portifolio for link" /></a> </p>
 
-- 🔭 I’m currently working on [Gtting Rich or die trying.](gsr-psi.vercel.app)
+- 🔭 I’m currently working on [Getting Rich or die trying.](gsr-psi.vercel.app)
 
 - 🌱 I’m currently learning **Advanced Artificial intelligence**
 
