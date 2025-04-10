@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Advanced Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [joshua-three.vercel.app](joshua-three.vercel.app)
-
-- 📝 I regularly write articles on [my social media platform You can see them on my portifolio](my social media platform You can see them on my portifolio)
+- 📝 I regularly write articles on  <a href="https://www.linkedin.com/in/mugisha-joshua-1b2808285/" target="blank">linked In</a>
 
 - 💬 Ask me about **React, Next js, tailwind, Javascript, PHP, and Node Js, SQL**
 
-- 📫 How to reach me **mugishajosuetrezorhp@gmail.com**
+- 📫 How to reach me **mugishajosuetrezorhp@gmail.com** or **+250798434426**
 
 
 <h3 align="left">Connect with me:</h3>
