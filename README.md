@@ -7,25 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/check my portifolio for link" target="blank"><img src="https://img.shields.io/twitter/follow/check my portifolio for link?logo=twitter&style=for-the-badge" alt="check my portifolio for link" /></a> </p>
 
-- 🔭 I’m currently working on [Getting Rich or die trying.](gsr-psi.vercel.app)
-
 - 🌱 I’m currently learning **Advanced Artificial intelligence**
-
-- 👯 I’m looking to collaborate on **Mvura web application**
-
-- 🤝 I’m looking for help with **Geting friend with You guys**
 
 - 👨‍💻 All of my projects are available at [joshua-three.vercel.app](joshua-three.vercel.app)
 
 - 📝 I regularly write articles on [my social media platform You can see them on my portifolio](my social media platform You can see them on my portifolio)
 
-- 💬 Ask me about **React, tailwind, Javascript, PHP, and Node Js, SQL**
+- 💬 Ask me about **React, Next js, tailwind, Javascript, PHP, and Node Js, SQL**
 
 - 📫 How to reach me **mugishajosuetrezorhp@gmail.com**
 
-- 📄 Know about my experiences [joshua-three.vercel.app](joshua-three.vercel.app)
-
-- ⚡ Fun fact **Not yet, I will let u know i get some!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
